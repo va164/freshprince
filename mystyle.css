@@ -1,0 +1,26 @@
+h1 {
+	color: red;
+	font-size: 30px;
+}
+
+h2 {
+	font-size: 25px;
+	color: green;
+	text-align: center;
+}
+body {
+	background-color: yellow;
+	color: black;
+	font-size: 15px;
+}
+
+p {
+	font-style: normal;
+	font-family: "arial";
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+	text-align: center;
+}
